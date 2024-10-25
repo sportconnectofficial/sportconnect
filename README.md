@@ -33,3 +33,7 @@
   <li><a href="#">Seo Paravan Hizmetleri</a></li>
   <li><a href="#">Müşteri İç Bakiye Takip</a></li>
 </ol>
+
+<h2> Bize Ulaşın </h2>
+<p><strong>xSkype@atilles : liveid.adqwhew2rwqrqwr </p>
+<p><strong>Telegram: </strong> @sportconnectofficial </p>
