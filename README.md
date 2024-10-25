@@ -2,8 +2,9 @@
 
 
 <h3>SPORTCONNECT OTOMASYON SİSTEMLERİ</h3>
-<p>Aşağıda Betconstruct ve Pronet alt yapılı firmalara profesyonel otomasyon hizmeti alabilirsiniz.</p>
-
+<p> Betconstruct ve Pronet alt yapılı firmalara profesyonel Otomasyon Hizmetleri.</p>
+<p>Betconstruct alt yapılı ve pronet alt yapılı bahis sitelerinde kullanabileceğiniz yazılımları aşağıda ki listeden tıklayarak nasıl kullanıdıklarına erişebilirsiniz.</p>
+<p>Satın almak ve teknik destek için bize ulaşın bölümünü inceleyebilirsiniz.</p>
 <h2>ÜRÜNLERİMİZ</h2>
 <ol>
 <li><a href="#">Otomatik Bonus Talep</a></li>
