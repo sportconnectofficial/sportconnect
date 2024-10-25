@@ -22,3 +22,13 @@
   <li><a href="#">Çekim Bildirimleri</a></li>
   <li><a href="#">Müşteri İç Bakiye Takip</a></li>
 </ol>
+
+<h2>HİZMETLERİMİZ</h2>
+<ol>
+  <li><a href="#">Grafik Tasarım Hizmetleri</a></li>
+<li><a href="#">Websitesi Giydirme CSS/JS Hizmetleri</a></li>
+<li><a href="#">Marketing Hizmetleri</a></li>
+  <li><a href="#">Sosyal Medya Yönetimi</a></li>
+  <li><a href="#">Seo Paravan Hizmetleri</a></li>
+  <li><a href="#">Müşteri İç Bakiye Takip</a></li>
+</ol>
