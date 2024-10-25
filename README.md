@@ -1,4 +1,8 @@
+![logo (2)](https://github.com/user-attachments/assets/6ea1e50b-3e58-49c9-bf6e-f41fbc3de046)
+
 <h3>SPORTCONNECT OTOMASYON SİSTEMLERİ</h3>
+<p>Aşağıda Betconstruct ve Pronet alt yapılı firmalara profesyonel otomasyon hizmeti alabilirsiniz.</p>
+
 <h2>ÜRÜNLERİMİZ</h2>
 <ol>
 <li><a href="#">Otomatik Bonus Talep</a></li>
