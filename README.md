@@ -1,2 +1,0 @@
-# sportconnect
-Sportconnect Software
