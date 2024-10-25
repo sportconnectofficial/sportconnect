@@ -9,7 +9,7 @@
 <li><a href="#">Bilet Sistemi</a></li>
 </ol>
 
-TELEGRAM YAZILIMLARI
+<h2>TELEGRAM BOT OTOMASYONLARI</h2>
 <ol>
   <li><a href="#">TİB Kontrol Botu</a></li>
 <li><a href="#">Saatlik Finans Raporu</a></li>
